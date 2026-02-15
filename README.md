@@ -16,13 +16,7 @@
 
 ---
 
-### 🌟 Projects
-Here are some projects I’ve worked on:
-- 🔍 **Face Detection System**
-- 💬 **Chat Analyzer**
-- 🌐 **Portfolio Website**
 
----
 
 ### 🧠 Current Focus
 - Improving my development & AI skills
@@ -31,9 +25,7 @@ Here are some projects I’ve worked on:
 
 ---
 
-### 📫 Connect With Me
-- LinkedIn: *Add link here*
-- Email: *Add your email here*
+
 
 ---
 
@@ -43,7 +35,7 @@ I love building things creatively and learning every single day!
 ---
 
 ### 🛠️ Tools I Use
-`Git` `VS Code` `Jupyter Notebook` `MySQL`
+jupyter notebook,vscode
 
 ---
 
