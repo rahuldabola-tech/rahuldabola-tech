@@ -12,9 +12,9 @@
 
 ### 🚀 Skills
 - **Python**
-- **SQL**
-
----
+- **fastapi**
+- **machine learning**
+  
 
 
 
